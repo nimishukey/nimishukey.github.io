@@ -1,7 +1,7 @@
 ---
 title: "Casual Academic"
 collection: teaching
-type: "Tutorial"
+type: "Postgraduate Course"
 permalink: /teaching/COMP9024
 venue: "School of CSE, University of New South Wales"
 date: 2024-02-19
