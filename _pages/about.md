@@ -26,7 +26,7 @@ My complete articles are available on [Google Scholar](https://scholar.google.co
 - Honors & Awards
   - Best Student Paper Award by Australasian Database Conference (ADC), 2022
   - MEDIBANK International Student Sport Award by UNSW, 2023
-  - First prize in Poster Competition at ZEST 08 (Annual Social Gathering) by Umrer Polytechnic, India, 2008
+  - First prize in Poster Competition at ZEST 08 by Umrer Polytechnic, India, 2008
   
 - Scholarships
   - National Overseas Scholarship for PhD by the Government of India, 2020
