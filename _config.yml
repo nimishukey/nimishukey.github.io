@@ -21,7 +21,7 @@ repository               : "nimishukey/nimishukey.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/nimish_ukey.png"
+  avatar           : "nimish_ukey.png"
   name             : "Nimish Ukey"
   pronouns         : # example: "she/her"  
   bio              : "PHD Candidate at the University of New South Wales, NSW, Australia"
