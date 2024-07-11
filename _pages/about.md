@@ -11,6 +11,7 @@ redirect_from:
 I am currently pursuing my doctoral studies in the [School of Computer Science](https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering) at the [University of New South Wales](https://www.unsw.edu.au/)(*UNSW*) under the guidance of Dr. [Zhengyi Yang](http://www.zhengyi.one/), Assoc. Prof. [Binghao Li]([https://research.unsw.edu.au/people/associate-professor-binghao-li](https://www.unsw.edu.au/staff/binghao-li), Prof. [Wenjie Zhang](https://www.cse.unsw.edu.au/~zhangw/), and Prof. [Serkan Saydam](https://www.unsw.edu.au/staff/serkan-saydam) in the [Data and Knowledge Research group](https://unswdb.github.io/)(*DKR*) and the Mine Internet of Things and Indoor Positioning Indoor Navigation (MIoT & IPIN) Lab.
 
 <h2 id="publications"> Publications </h2>
+My complete articles are available on [Google Scholar](https://scholar.google.com.au/citations?user=zOsfTjIAAAAJ&hl=en&oi=ao) profile.
 
 1. (Submitted and Under Review) **Nimish Ukey**, Guangjian Zhang, Zhengyi Yang, Xiaoyang Wang, Binghao Li, Serkan Saydam, and Wenjie Zhang, “*A Cluster-Based Approach to kNN Join Over Batch-Dynamic High-Dimensional Data*,” Advanced Data Mining and Applications, ADMA 2024.
 2. **Nimish Ukey**, Zhengyi Yang, Wenke Yang, Binghao Li, and Runze Li, “*knn join for dynamic high-dimensional data: A parallel approach*,” in Australasian Database Conference. Springer, 2023, pp. 3–16.
