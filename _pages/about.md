@@ -23,11 +23,16 @@ My complete articles are available on [Google Scholar](https://scholar.google.co
 8. Lalit Kulkarni, **Nimish Ukey**, Jagdish Bakal, and Nekita Chavan, “*A Survey on Energy-Efficient Techniques to Reduce Energy Consumption in Delay Tolerant Networks*,” In Computing and Network Sustainability: Proceedings of IRSCNS 2016, pp. 83-91. Springer Singapore, 2017.
 
 <h2 id= "honors & awards"> Scholarships, Honors, Awards & Grants </h2>
+- Honors & Awards
+  - Best Student Paper Award by Australasian Database Conference (ADC), 2022
+  - MEDIBANK International Student Sport Award by UNSW, 2023
+  - First prize in Poster Competition at ZEST 08 (Annual Social Gathering) by Umrer Polytechnic, India, 2008
+  
+- Scholarships
+  - National Overseas Scholarship for PhD by the Government of India, 2020
+  - Rajarshi Shahu Maharaj Overseas Scholarship for PhD by the Government of Maharashtra, India, 2020
+  - Graduate Scholarship (for students who qualify the Graduate Aptitude Test in Engineering) by All India Council for Technical Education (AICTE), 2014
+
+- Grants
   - UNSW Swimming Safe Grant by UNSW, May 2024
-  - MEDIBANK International Student Sport Award by UNSW, Nov 2023
   - CIRES-ADC Travel Grant by the Centre for Information Resilience (CIRES), Sep 2023
-  - Best Student Paper Award by Australasian Database Conference (ADC), Aug 2022
-  - Rajarshi Shahu Maharaj Overseas Scholarship for PhD by the Government of Maharashtra, India, Oct 2020
-  - National Overseas Scholarship for PhD by the Government of India, Jul 2020
-  - Graduate Scholarship (for students who qualify the Graduate Aptitude Test in Engineering) by All India Council for Technical Education (AICTE), Mar 2014
-  - First prize in Poster Competition at ZEST 08 (Annual Social Gathering) by Umrer Polytechnic, India, Mar 2008
