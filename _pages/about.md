@@ -19,3 +19,13 @@ My complete articles are available on [Google Scholar](https://scholar.google.co
 4. **Nimish Ukey**, Zhengyi Yang, Binghao Li, Guangjian Zhang, Yiheng Hu, and Wenjie Zhang, “*Survey on exact knn queries over high-dimensional data space*,” Sensors, vol. 23, no. 2, p. 629, 2023.
 5. **Nimish Ukey**, Zhengyi Yang, Guangjian Zhang, Boge Liu, Binghao Li, and Wenjie Zhang, “*Efficient knn join over dynamic high-dimensional data*,” in Australasian Database Conference. Springer, 2022, pp. 63–75.
 
+
+<h2 id= "honors & awards"> Scholarships, Honors, Awards & Grants </h2>
+  - UNSW Swimming Safe Grant by UNSW, May 2024
+  - MEDIBANK International Student Sport Award by UNSW, Nov 2023
+  - CIRES-ADC Travel Grant by the Centre for Information Resilience (CIRES), Sep 2023
+  - Best Student Paper Award by Australasian Database Conference (ADC), Aug 2022
+  - Rajarshi Shahu Maharaj Overseas Scholarship for PhD by the Government of Maharashtra, India, Oct 2020
+  - National Overseas Scholarship for PhD by the Government of India, Jul 2020
+  - Graduate Scholarship (for students who qualify the Graduate Aptitude Test in Engineering) by All India Council for Technical Education (AICTE), Mar 2014
+  - First prize in Poster Competition at ZEST 08 (Annual Social Gathering) by Umrer Polytechnic, India, Mar 2008
