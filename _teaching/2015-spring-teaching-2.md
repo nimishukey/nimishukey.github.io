@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Casual Academic"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Tutorial"
+permalink: /teaching/COMP9024
+venue: "School of CSE, University of New South Wales"
+date: 2024-02-19
+location: "Sydney, Australia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Tutor for COMP9024 – Data Structures and Algorithms course
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
