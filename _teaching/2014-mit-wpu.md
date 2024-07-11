@@ -8,6 +8,6 @@ date: 2014-01-08
 location: "Pune, India"
 ---
 
-- Created and maintained laboratory manuals for Database and Operating System courses.
+- Created and maintained lab manuals for Database and Operating System courses.
 - I also offered support and guidance to graduate students by addressing their inquiries during lab sessions. 
 - Evaluated and graded lab assignments.
