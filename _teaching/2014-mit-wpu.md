@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Course"
 permalink: /teaching/2014-mit-wpu
 venue: "Department of CSE, MIT World Peace University"
 date: 2014-01-08
