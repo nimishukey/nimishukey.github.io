@@ -22,7 +22,7 @@ My complete articles are available on [Google Scholar](https://scholar.google.co
 7. **Nimish Ukey**, Lalit Kulkarni, “*Energy Based Recent Trends in Delay Tolerant Networks*,” In Information and Communication Technology for Sustainable Development: Proceedings of ICT4SD 2016, Volume 1, pp. 141-150. Springer Singapore, 2018.
 8. Lalit Kulkarni, **Nimish Ukey**, Jagdish Bakal, and Nekita Chavan, “*A Survey on Energy-Efficient Techniques to Reduce Energy Consumption in Delay Tolerant Networks*,” In Computing and Network Sustainability: Proceedings of IRSCNS 2016, pp. 83-91. Springer Singapore, 2017.
 
-<h2 id= "honors & awards"> Scholarships, Honors, Awards & Grants </h2>
+<h2 id= "awards"> Scholarships, Honors, Awards & Grants </h2>
 - Honors & Awards
   - Best Student Paper Award by Australasian Database Conference (ADC), 2022
   - MEDIBANK International Student Sport Award by UNSW, 2023
