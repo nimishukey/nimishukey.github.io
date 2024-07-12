@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Nimish Ukey"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "nimish_ukey.png"
   name             : "Nimish Ukey"
-  pronouns         : # example: "she/her"  
+  pronouns         : # "He/Him"  
   bio              : "PHD Candidate at the University of New South Wales, NSW, Australia"
   #location         : "Earth"
   #employer         : "UNSW"
