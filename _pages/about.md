@@ -13,7 +13,7 @@ I am currently pursuing my doctoral studies in the [School of Computer Science](
 <h2 id="publications"> Publications </h2>
 My complete articles are available on [Google Scholar](https://scholar.google.com.au/citations?user=zOsfTjIAAAAJ&hl=en&oi=ao) profile.
 
-1. **(Submitted and Under Review) Nimish Ukey**, Guangjian Zhang, Zhengyi Yang, Xiaoyang Wang, Binghao Li, Serkan Saydam, and Wenjie Zhang, “*A Cluster-Based Approach to kNN Join Over Batch-Dynamic High-Dimensional Data*,” Advanced Data Mining and Applications, ADMA 2024.
+1. **(Paper Accepted) Nimish Ukey**, Guangjian Zhang, Zhengyi Yang, Xiaoyang Wang, Binghao Li, Serkan Saydam, and Wenjie Zhang, “*A Cluster-Based Approach to kNN Join Over Batch-Dynamic High-Dimensional Data*,” Advanced Data Mining and Applications, ADMA 2024.
 2. **Nimish Ukey**, Zhengyi Yang, Wenke Yang, Binghao Li, and Runze Li, “*knn join for dynamic high-dimensional data: A parallel approach*,” in Australasian Database Conference. Springer, 2023, pp. 3–16.
 3. **Nimish Ukey**, Guangjian Zhang, Zhengyi Yang, Binghao Li, Wei Li, and Wenjie Zhang, “*Efficient continuous knn join over dynamic high-dimensional data*,” World Wide Web, vol. 26, no. 6, pp. 3759–3794, 2023.
 4. **Nimish Ukey**, Zhengyi Yang, Binghao Li, Guangjian Zhang, Yiheng Hu, and Wenjie Zhang, “*Survey on exact knn queries over high-dimensional data space*,” Sensors, vol. 23, no. 2, p. 629, 2023.
