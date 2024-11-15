@@ -35,6 +35,6 @@ My complete articles are available on [Google Scholar](https://scholar.google.co
   - Graduate Scholarship (for students who qualify the Graduate Aptitude Test in Engineering) by All India Council for Technical Education (AICTE), 2014
 
 - Grants
-  - Advanced Data Mining and Applications (ADMA) Travel Grant 2024  
+  - Advanced Data Mining and Applications (ADMA) Travel Grant, 2024  
   - UNSW Swimming Safe Grant by UNSW, 2024
   - Australasian Database Conference Travel Grant by the Centre for Information Resilience (CIRES), 2023
