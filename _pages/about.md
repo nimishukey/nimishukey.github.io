@@ -26,8 +26,8 @@ My complete articles are available on [Google Scholar](https://scholar.google.co
 <h2 id= "awards"> Scholarships, Honors, Awards & Grants </h2>
 - Honors & Awards
   - Best Student Paper Award by Advanced Data Mining and Applications (ADMA), 2024
-  - Best Student Paper Award by Australasian Database Conference (ADC), 2022
   - MEDIBANK International Student Sport Award by UNSW, 2023
+  - Best Student Paper Award by Australasian Database Conference (ADC), 2022
   - First prize in Poster Competition at ZEST 08 by Umrer Polytechnic, India, 2008
   
 - Scholarships
