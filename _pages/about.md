@@ -20,7 +20,7 @@ My complete articles are available on [Google Scholar](https://scholar.google.co
 5. **Nimish Ukey**, Zhengyi Yang, Guangjian Zhang, Boge Liu, Binghao Li, and Wenjie Zhang, “*Efficient knn join over dynamic high-dimensional data*,” in Australasian Database Conference. Springer, 2022, pp. 63–75.
 6. **Nimish Ukey**, Lalit Kulkarni, “*Implementation of Energy Efficient Algorithm in Delay Tolerant Networks*,” In 2017 2nd International Conference for Convergence in Technology (I2CT), pp. 93-99. IEEE, 2017.
 7. **Nimish Ukey**, Lalit Kulkarni, “*Energy Based Recent Trends in Delay Tolerant Networks*,” In Information and Communication Technology for Sustainable Development: Proceedings of ICT4SD 2016, Volume 1, pp. 141-150. Springer Singapore, 2018.
-8. **(Paper Accepted)** Haonan Yan, Zhengyi Yang, Tianming Zhang, Dong Wen, Qi Luo, and **Nimish Ukey**, “Approximating Temporal Katz Centrality with Monte Carlo Methods,” The 7th International Workshop on Knowledge Graph Management and Applications, KGMA 2024.
+8. Haonan Yan, Zhengyi Yang, Tianming Zhang, Dong Wen, Qi Luo, and **Nimish Ukey**, “Approximating Temporal Katz Centrality with Monte Carlo Methods,” The 7th International Workshop on Knowledge Graph Management and Applications, KGMA 2024.
 9. Lalit Kulkarni, **Nimish Ukey**, Jagdish Bakal, and Nekita Chavan, “*A Survey on Energy-Efficient Techniques to Reduce Energy Consumption in Delay Tolerant Networks*,” In Computing and Network Sustainability: Proceedings of IRSCNS 2016, pp. 83-91. Springer Singapore, 2017.
 
 <h2 id= "awards"> Scholarships, Honors, Awards & Grants </h2>
